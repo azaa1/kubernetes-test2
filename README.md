@@ -1,2 +1,2 @@
-# kubernetes-test2
-k8s: ReadinessProbe, LivenessProbe, ReplicationController, ReplicaSets, DaemonSets
+# kubernetes4
+K8 prep repo
